@@ -8,12 +8,9 @@ nav_order: 10
 # Hiking in the Rockies
 Hiking is one of the best and most rewarding ways to spend time in the Rockies. There are hundreds of trails for all levels of experience, and with the right preparation and selection, you'll have a fantastic (and safe) time outside.
 
-In this section, you'll find hikes I have done and highly recommend.
+You are still out in the nature, and the Rockies can quickly become a dangerous place if you are not prepared. 
 
-## Preparing for a Hike
-The Rocky mountains are very popular with tourists, and lots of trails are available. But you are still out in the nature, and the Rockies can quickly become a dangerous place if you are not prepared. 
-
-### Picking the Hike, Day, and Group
+## Picking the Hike, Day, and Group
 - Check the weather forecast. If it is not good, or you see any risk (eg. thunderstorms or 30+ degrees forecast for any hike; rain on a scramble) **do not go**. It's a bummer, but better to be safe than sorry. Consider that the weather can be **very** different in the mountain (and this means it is usually worse).
 - Assess the time of year. In late spring and early summer, there is still a lot of snow in the mountains which can make the hike harder and more dangerous. The summer hikes recommended here (anything not in the Winter Hikes category) are **not** doable in winter.
 - When picking a hike, one good idea is to use *AllTrails* (either the app or website via Google search) and look up the reviews of the hike. This is a very popular app where people report recent trail conditions and any hazards they came across.
@@ -23,7 +20,7 @@ The Rocky mountains are very popular with tourists, and lots of trails are avail
 - Take trail closures seriously. Closed means closed, not "a chance to see a trail without people".
 - General rule of thumb: The earlier you start in the day, the better. Less people on trails, less uphill in the midday sun, and more time available at the end of day in case of emergencies.
 
-### Packing List
+## Packing List
 While you want to travel light, there are a few things you really should take on the trail. You will likely see people bringing next to nothing and then hike much faster than you. That is okay. They have a small margin of error and if anything happens, they will be in much more danger than a well-prepared hiker. The one day things don't go as planned you'll be thankful for a backpack that might weigh a few pounds more. As a guideline, here is what I bring on day hikes and scrambles (but please also do your own research).
 
 Must Have:
@@ -51,19 +48,10 @@ Do not pack:
 - Bluetooth speaker. Don't bother everyone around you.
 - Jeans are not good for hiking.
 
-### Risks of Hiking
+## Risks of Hiking
 - Weather. Watch the weather. An incoming rain storm can make your life miserable and your hike more dangerous. In higher altitude, on ridges and saddles, strong wind can occur. Snow and avalanche risk exist in high elevation essentially all summer. The higher you go, the colder it gets. Don't let the trailhead sunshine fool you.
 - Dehydration. Avoid running out of water. It is a good idea to turn around early if you think you won't have enough water. If you finish the hike and have no water left, it is a bad sign. Bring more water next time.
 - Bears, cougars, other wildlife. Be alert at all times and **never** approach or feed wildlife. [Read the pages by Parks Canada to learn what to do if you encounter bears](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety).
 - Mountain Terrain. Watch for people on the trail above you as they may trigger rockfall. Stay away from cliffs. Do not go on cornices or snow with running water underneath.
 - Getting Help. Most likely, you will have no cellphone reception. Consider that emergency help is likely hours away when making decisions.
-
-## Recommended Hikes
-I have broken down the hikes into the following categories:
-- **Easy:** If this is your first time in the Rockies, if you go alone, have a hard time limit, or if you have limited mobility, this category is for you. Easy hiking does not mean less adventure.
-- **Moderate:** This will get you a workout, and a serious one if you are not generally active or used to mountain hiking. The feeling of reward will kick in.
-- **Difficult:** You must have done some mountain hiking before to do hikes in this category. Preparation is essential. Do not do these hikes alone. Difficult hikes require a lot of energy and time.
-- **Scrambles:** Scrambles are serious hikes that require the use of hands and feet. You are almost climbing (minus the gear), and there are serious risks like terrain traps, risk of falling, rock fall, exposure, and others. If you are not sure you can handle this, don't do it - stick to hiking.
-- **Backcountry:** These are multi-day trips that require you to bring your own camping gear, food, etc. - and you must book the backcountry campgrounds in advance. 
-- **Winter Hikes:** All of the above are mostly for the summer. You can still hike in winter, but the amount of snow, accessibility, and risks are considerable. The hikes suggested here are doable, and low risk (as low as can be) in the winter months. But they still need good preparation.
 

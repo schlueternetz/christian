@@ -19,15 +19,7 @@ nav_order: 10
 </iframe>
 
 ## Bars & Drinks
-<iframe
-  width="600"
-  height="450"
-  style="border:0"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBPO8pxuoaNZB_wYDTRqvFRujhCXFIYT1M&q=bMBwWxszPQ9rqBHS9">
-</iframe>
+<iframe src="https://www.mapchannels.com/tm3/map.htm?id=31437-calgary-restaurants" style="width:976px;height:760px;overflow:hidden" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen allowtransparency="true"></iframe>
 
 ## Things to do
 <iframe
