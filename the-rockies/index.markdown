@@ -14,6 +14,5 @@ nav_order: 40
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key={{ site.env.GOOGLE_MAPS_API_KEY }}
-    &q=Space+Needle,Seattle+WA">
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBPO8pxuoaNZB_wYDTRqvFRujhCXFIYT1M&q=Space+Needle,Seattle+WA">
 </iframe>

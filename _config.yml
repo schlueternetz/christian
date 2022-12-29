@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jemoji
-  - jekyll-environment-variables
 
 show_downloads: false
 search_enabled: false
