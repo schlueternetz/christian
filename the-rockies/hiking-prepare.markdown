@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Hiking
+title: Preparing for Hikes
 parent: The Rockies
 grand_parent: Welcome
-has_children: true
 nav_order: 10
 ---
 # Hiking in the Rockies

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: The Rockies
+title: Recipes
 parent: Welcome
 has_children: true
-nav_order: 40
+nav_order: 50
 ---
-# The Rockies
+# Yummy recipes
