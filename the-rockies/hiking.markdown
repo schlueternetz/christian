@@ -2,6 +2,7 @@
 layout: default
 title: Hiking
 parent: The Rockies
+grand_parent: Welcome
 has_children: true
 nav_order: 10
 ---
