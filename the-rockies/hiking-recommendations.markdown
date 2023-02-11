@@ -5,7 +5,7 @@ parent: The Rockies
 grand_parent: Welcome
 nav_order: 20
 ---
-# Hike Recommendations
+# Recommended Hikes
 
 Once you are [prepared](https://schlueternetz.github.io/christian/the-rockies/hiking-prepare.html), here are my recommendations for hikes. 
 
@@ -59,7 +59,7 @@ The following hikes I did not enjoy for some reason, and I would not recommend t
 
 - **Sulphur Mountain:** Too busy, no good views until you reach the summit (which you can do by gondola)
 - **Moose Mountain:** Used to be good, now the fire lookout is fenced off so you don't get to hike the last 10m to the peak.
-- **Hikes starting at Cave and Basin in Banff:** These are walks on a boring, flat concrete road.
+- **Hikes starting at Cave and Basin in Banff:** These are walks on a boring, paved road.
 - **Lady MacDonald ("Teahouse" and ridge):** Too much effort for the view, and you only get views at the end.
 - **Fullerton Loop:** Too much tree coverage, no good views.
 - **Tower of Babel:** Sketchy, sliding scree on the uphill.

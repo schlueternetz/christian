@@ -5,7 +5,7 @@ parent: The Rockies
 grand_parent: Welcome
 nav_order: 10
 ---
-# Hiking in the Rockies
+# Preparing for Hikes
 Hiking is one of the best and most rewarding ways to spend time in the Rockies. There are hundreds of trails for all levels of experience, and with the right preparation and selection, you'll have a fantastic (and safe) time outside.
 
 You are still out in the nature, and the Rockies can quickly become a dangerous place if you are not prepared. 
