@@ -7,6 +7,8 @@ nav_order: 10
 ---
 # Sauteed Brussel Sprouts
 
+![Brussel Sprout Curry](brusselsprouts.jpg)
+
 ## Ingredients
 This makes about 4-6 servings.
 
@@ -52,6 +54,6 @@ Add vegetables and stir well. Cover and cook vegetables for 5 minutes, stirring 
 
 Just before serving, add the chicken and mix. Serve in a bowl on a bed of Orzo or with warmed naan bread on the side. Garnish with cilantro and cashew pieces.
 
-## Variations
+## Notes
 - Use coconut milk instead of cheese and skip the chicken to make this dish vegan.
 - This is a good recipe for batch cooking - it freezes well. Make fresh Naan or Orzo each time.
