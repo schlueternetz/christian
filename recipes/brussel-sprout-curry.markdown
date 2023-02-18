@@ -7,7 +7,7 @@ nav_order: 10
 ---
 # Sauteed Brussel Sprouts
 
-![Brussel Sprout Curry](brusselsprouts.jpg)
+![Brussel Sprout Curry](brussel-sprout-curry.jpg)
 
 ## Ingredients
 This makes about 4-6 servings.

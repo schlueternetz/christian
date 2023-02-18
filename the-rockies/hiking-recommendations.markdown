@@ -16,6 +16,7 @@ So I always look at a second source, and typically for me this is [Bob Spirko's 
 > **⚠ WARNING:**  
 > Bob Spirko is very experienced and has done a lot of hikes and scrambles. If you are new to the Rockies, avoid anything he found difficult or risky.
 
+In the following sections, you will find my hiking recommendations.
 - [Easy Hikes](#easy-hikes)
 - [Moderate Hikes](#moderate-hikes)
 - [Difficult Hikes](#difficult-hikes)
