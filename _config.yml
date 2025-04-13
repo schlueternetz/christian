@@ -58,3 +58,7 @@ search_enabled: false
 #   - vendor/ruby/
 exclude:
   - SECURITY.md
+
+linkedin_badge: |
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="christianschlueter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/christianschlueter?trk=profile-badge">Christian Schlueter</a></div>
