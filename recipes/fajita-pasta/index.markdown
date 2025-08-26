@@ -32,6 +32,6 @@ nav_order: 10
 - Sprinkle the crushed chips and the pepper jack over the top. Transfer to the broiler and cook until the cheese is bubbly and starting to brown in spots, 2 to 3 minutes. 
 
 ## Notes
-- If you are planning to serve a portion of the food later, skip the last step. Heat up the pasta first and then broil with freshly sprinkled toppings to keep it crispy.
+- If you are planning to serve a portion of the food later, skip the last step for now. When serving, heat up the pasta first and then broil with freshly sprinkled chips and cheese to keep it crispy.
 
 - You can use a little less pasta and serve the extra-saucy dish with a fresh baguette for dipping.
