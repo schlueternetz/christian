@@ -3,7 +3,6 @@ layout: default
 title: Hasselblad Gratin
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Creamy Hasselblad Potato Gratin
 

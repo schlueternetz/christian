@@ -3,7 +3,6 @@ layout: default
 title: Asparagus Galette
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Asparagus Galette
 

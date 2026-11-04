@@ -3,7 +3,6 @@ layout: default
 title: Campfire Chili
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Cast Iron Campfire Chili
 

@@ -3,7 +3,6 @@ layout: default
 title: Creamy Bacon Pasta Sauce
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Creamy Bacon Pasta Sauce
 

@@ -3,7 +3,6 @@ layout: default
 title: Cajun Butter
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Cajun Butter
 

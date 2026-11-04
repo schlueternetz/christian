@@ -3,7 +3,6 @@ layout: default
 title: Thai Curry
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Thai Curry (red/yellow/green)
 

@@ -3,7 +3,6 @@ layout: default
 title: Sauteed Brussel Sprouts
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Sauteed Brussel Sprouts
 

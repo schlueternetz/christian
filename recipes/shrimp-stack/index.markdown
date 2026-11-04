@@ -3,7 +3,6 @@ layout: default
 title: Spicy Shrimp Stack
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Spicy Shrimp Stacks with Mango Salsa
 These Spicy Shrimp Stacks are a fun twist on the spicy California roll topped with fresh guacamole, bang bang sauce and homemade mango salsa.

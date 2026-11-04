@@ -3,7 +3,6 @@ layout: default
 title: Spanish Chicken Bake
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Spanish-style chicken bake
 

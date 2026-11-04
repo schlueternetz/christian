@@ -3,7 +3,6 @@ layout: default
 title: Grilled Garlic Caesar Salad
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Grilled Garlic Caesar Salad
 

@@ -3,7 +3,6 @@ layout: default
 title: Bacon-Wrapped Meatballs
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Bacon-Wrapped Meatballs
 

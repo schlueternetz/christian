@@ -3,7 +3,6 @@ layout: default
 title: White Bean & Sun-Dried Tomato Gnocci
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # White Bean & Sun-Dried Tomato Gnocci
 

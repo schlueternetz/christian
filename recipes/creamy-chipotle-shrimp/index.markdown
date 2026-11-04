@@ -3,7 +3,6 @@ layout: default
 title: Creamy Chipotle Shrimp
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Creamy Chipotle Shrimp
 

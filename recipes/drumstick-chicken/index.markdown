@@ -3,7 +3,6 @@ layout: default
 title: Slow Cooker Chicken Drumsticks
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Slow Cooker Chicken Drumsticks
 

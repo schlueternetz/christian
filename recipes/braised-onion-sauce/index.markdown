@@ -3,7 +3,6 @@ layout: default
 title: Braised Onion Sauce
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Braised Onion Sauce
 

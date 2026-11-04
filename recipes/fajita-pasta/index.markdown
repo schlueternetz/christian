@@ -3,7 +3,6 @@ layout: default
 title: Chicken Fajita Pasta
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Chicken Fajita Pasta
 
