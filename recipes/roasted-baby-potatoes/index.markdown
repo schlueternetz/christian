@@ -3,7 +3,6 @@ layout: default
 title: Roasted Baby Potatoes
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Crispy Oven Roasted Baby Potatoes
 

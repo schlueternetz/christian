@@ -3,7 +3,6 @@ layout: default
 title: Melt In Your Mouth Chicken
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Melt In Your Mouth Chicken
 

@@ -3,7 +3,6 @@ layout: default
 title: Venetian Duck Ragout
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Venetian Duck Ragout
 

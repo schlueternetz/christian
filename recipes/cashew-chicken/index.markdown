@@ -3,7 +3,6 @@ layout: default
 title: Cashew Chicken
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Cashew Chicken with Ginger
 

@@ -3,7 +3,6 @@ layout: default
 title: Asian Sprite Chicken
 parent: Recipes
 grand_parent: Welcome
-nav_order: 10
 ---
 # Asian Sprite Chicken
 
